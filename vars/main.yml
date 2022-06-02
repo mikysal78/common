@@ -19,7 +19,10 @@ packages:
   - traceroute
   - tree
   - build-essential
-    #  - linux-source
   - apt-transport-https
-  - python-mysqldb
+  - python3-mysqldb
   - net-tools
+  - screenfetch
+  - ncdu
+  - python3-pip
+  - libpq-dev
